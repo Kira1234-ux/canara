@@ -5,6 +5,6 @@ package wipro;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello metaverse!");
+        System.out.println("Hello  MARS metaverse!");
     }
 }
